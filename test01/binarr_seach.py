@@ -1,4 +1,4 @@
-my_list = [1, 2, 34, 45, 6, 7, 8, 5]
+my_list = [1, 2, 34, 45, 6, 7, 8, 5, 34, 55, 66, 7, 0, 555, 777, 888, 8990]
 num = 6
 my_list_sorted = sorted(my_list)
 print(my_list_sorted)
