@@ -1,14 +1,20 @@
 # Найдите сумму и количество элементов массива,
 # попавших в интервал [a; b]. Границы интервала вводятся с клавиатуры.
-arrr = [5, 3, 4, 6, 7, -4, 4, 6, 4, -55, 4, -3, 5, 45, 6, 5, 56, -554]
+arrr = [5, 3, 4, 6, 7, -4, 4, 0, 4, -55, 4, -3, 5, 45, 1, 5, 56, -554]
 arrr = sorted(arrr)
-n_start = 1
-n_fin = 10
+n_start = 6
+n_fin = -55
 lst = []
-for p in arrr:
-    if n_fin >= p >= n_start:
-        lst.append(p)
-print(lst)
+
+
+
+
+
+
+
+
+
+
 # lst = [i for i in range(n_start, n_fin + 1)]
 # print(lst)
 # # def recu(arr):
