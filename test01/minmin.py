@@ -7,6 +7,7 @@ qwe = [w for w in range(random.randint(1, 100))]
 print(qwe)
 sss = [p for p in qwe if p % 7 == 1]
 print(sss)
+print()
 
 
 def minbimn(sss):
